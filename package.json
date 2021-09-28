@@ -1,5 +1,5 @@
 {
-  "name": "Primera_prueba_bot_telegram",
+  "name": "First telegram bot test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuanLamb/Test_Telegram_Bot.git"
+    "url": "git+https://github.com/CatBoxy/Telegram_coingeckoAPI_bot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuanLamb/Test_Telegram_Bot/issues"
+    "url": "https://github.com/CatBoxy/Telegram_coingeckoAPI_bot/issues"
   },
-  "homepage": "https://github.com/JuanLamb/Test_Telegram_Bot#readme"
+  "homepage": "https://github.com/CatBoxy/Telegram_coingeckoAPI_bot#readme"
 }
